@@ -1,7 +1,7 @@
 # home-heating-control
 
 ![네스트](http://qbinson.com/wp-content/uploads/2015/11/nest.jpg)
-> Little rough nest를 목표로.
+> Little rough nest를 목표로. [nest homepage](https://nest.com/thermostat/meet-nest-thermostat/)
 
 보일러 난방 온수 효율적으로 제어하기. 참고 링크([밸브갓](http://www.slideshare.net/KyuhoKim/20150122-valve-god), [김태훈님 커뮤니티글](http://m.todayhumor.co.kr/view.php?table=bestofbest&no=135305), [김태훈님 슬라이드](http://www.slideshare.net/rlaxogns/ss-41386800))
 
