@@ -1,4 +1,4 @@
-# Raspbian Jessie 설치!
+# Raspbian에 OS(Jessie) 및 sw 설치!
 
 참고 링크: [공식 홈페이지 인스톨 가이드](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md), [메카솔루션 오픈랩](http://blog.naver.com/roboholic84)
 
